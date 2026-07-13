@@ -1,6 +1,6 @@
 # SSH Remote Server Setup
 
-A basic remote Linux server (AWS EC2, Ubuntu) configured to allow secure, key-based SSH access using two separate SSH key pairs — with password authentication disabled and fail2ban protecting against brute-force attempts.
+A remote Linux server (AWS EC2, Ubuntu) configured to allow secure, key-based SSH access using two separate SSH key pairs and with password authentication disabled and fail2ban protecting against brute-force attempts.
 
 ## Overview
 

@@ -12,7 +12,7 @@ A remote Linux server (AWS EC2, Ubuntu) configured to allow secure, key-based SS
 ## Steps Taken
 
 ### 1. Provisioned the server
-Created an EC2 instance on AWS using the Ubuntu AMI. AWS generated a default key pair (`.pem` file) at launch time, which was used for the initial connection.
+Created an AWS EC2 instance on AWS using the Ubuntu AMI. AWS generated a default key pair (`.pem` file) at launch time, which was used for the initial connection.
 
 ### 2. Generated two SSH key pairs locally
 On my local machine (macOS), generated two Ed25519 key pairs:

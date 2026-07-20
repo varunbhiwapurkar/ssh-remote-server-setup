@@ -22,7 +22,7 @@ ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_server1 -C "key1"
 ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519_server2 -C "key2"
 ```
 
-This produced two private/public key pairs. Private keys were kept local only and never committed to this repository.
+This produced two private and public key pairs. Private keys were kept local only and never committed to this repository.
 
 ### 3. Added both public keys to the server
 Connected to the server using the AWS-issued `.pem` key:

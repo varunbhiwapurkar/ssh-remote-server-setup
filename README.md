@@ -7,7 +7,7 @@ A remote Linux server (AWS EC2, Ubuntu) configured to allow secure, key-based SS
 - **Provider:** AWS EC2
 - **OS:** Ubuntu
 - **Instance type:** t3.micro
-- **Region:** eu-west-1(Ireland)
+- **Region:** eu-west-1  (Ireland)
 
 ## Steps Taken
 
